@@ -1,0 +1,12 @@
+p{
+    font-size: 70px;
+    position:inherit;
+    height: 100px ;
+    width: 0px;
+    padding: 0%
+}
+
+p:nth-of-type(1){
+    writing-mode: horizontal-tb;
+    color: aliceblue;
+}
